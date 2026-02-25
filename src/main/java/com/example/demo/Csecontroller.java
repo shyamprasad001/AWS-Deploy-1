@@ -8,7 +8,7 @@ public class Csecontroller {
 	
 	@GetMapping("/home")
 	public String rocks() {
-		return "Welcome to AWS Jenkins";
+		return "Welcome to AWS Jenkins cse";
 	}
 	
 	@GetMapping("/cse")
